@@ -1,0 +1,13 @@
+Nome: Igor Gomes Soares
+Dt. Nasc: 23/10/2001
+Email: igorgomes.13ig@gmail.com 
+Linkedin: https://www.linkedin.com/in/igor-gomes-developer/
+Site pessoal: https://rogigs.github.io/igor_gomes/
+
+Formação:
+    . Bacharelado em Sistemas de informação na Universidade Presbiteriana Mackenzie, conclusão em 2023.
+    . Ensino médio integrado ao técnico de informática no Instituto Técnico de Barueri Brasílio Flores
+        Azevedo, concluído em 2018.
+
+Experiência:
+    . Estagiário em desenvolvimento web | Cromai tecnologias agrícolas LTDA - atuando no momento
