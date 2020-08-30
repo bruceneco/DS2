@@ -1,11 +1,14 @@
 Nome: Lucas Ivo Machado
 Idade: 19 anos
-    Formado como técnico em eletrotécnica pela escola técnica estadual etec Presidente Vargas em 2018. Atualmente cursando o terceiro semestre de Sistemas de informação 
-   na Universidade Presbiteriana Mackenzie.
+email: l.ivo@outlook.com
+
+Formação:
+   -Técnico em eletrotécnica pela escola técnica estadual etec Presidente Vargas em 2018. 
+   -Atualmente cursando o terceiro semestre de Sistemas de informação na Universidade Presbiteriana Mackenzie.
  
  Mais: https://www.linkedin.com/in/lucas-ivo-machado-6805141b2/
  
-Pagina web desenvolvida para a matéria de fundamentos web com HTML E CSS:https://github.com/The-ivo/pagina-web-hacker
+ Pagina web desenvolvida para a matéria de fundamentos web com HTML E CSS:https://github.com/The-ivo/pagina-web-hacker
 
  Pagina desenvolvida para treinar consulta de API com JavaScript: https://github.com/The-ivo/heroes
   
