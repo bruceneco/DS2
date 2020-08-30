@@ -4,11 +4,11 @@
 
 **Data de nascimento:** 01 de outubro de 2001 (18 anos).
 
-<img src="https://image.flaticon.com/icons/svg/126/126516.svg" width=25/>**Email:** jose.neco11@gmail.com
+<img src="https://image.flaticon.com/icons/svg/126/126516.svg" width=25/>  **Email:** jose.neco11@gmail.com
 
-<img src="https://image.flaticon.com/icons/svg/174/174857.svg" width=20/>**LinkedIn:** https://www.linkedin.com/in/jos%C3%A9-neco-632aaa116/
+<img src="https://image.flaticon.com/icons/svg/174/174857.svg" width=20/>  **LinkedIn:** https://www.linkedin.com/in/jos%C3%A9-neco-632aaa116/
 
-<img  src="https://image.flaticon.com/icons/svg/919/919847.svg" width=25/>**GitHub:** https://github.com/bruceneco
+<img  src="https://image.flaticon.com/icons/svg/919/919847.svg" width=25/>  **GitHub:** https://github.com/bruceneco
 
 <hr>
 
