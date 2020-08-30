@@ -6,7 +6,7 @@
 
 **Email:** jose.neco11@gmail.com
 
-**LinkedIn:** https://www.linkedin.com/in/jos%C3%A9-neco-632aaa116/
+<img src=""/>**LinkedIn:** https://www.linkedin.com/in/jos%C3%A9-neco-632aaa116/
 
 **GitHub:** https://github.com/bruceneco
 
