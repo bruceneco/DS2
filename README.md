@@ -2,6 +2,13 @@
 
 ## Índice
 
+- [Wiki completa](https://github.com/bruceneco/DS2/wiki)
+  - [Diagrama de Casos de Uso](https://github.com/bruceneco/DS2/wiki/Diagrama-Casos-de-Uso)
+  - [Diagrama de Atividades](https://github.com/bruceneco/DS2/wiki/Diagrama-de-Atividades)
+  - [Diagrama de Domínio](https://github.com/bruceneco/DS2/wiki/Diagrama-de-Dom%C3%ADnio)
+  - [Diagrama de Estados](https://github.com/bruceneco/DS2/wiki/Diagrama-de-Estados)
+  - [Diagramas de Sequência](https://github.com/bruceneco/DS2/wiki/Diagramas-de-Sequencia)
+  - [Pacotes e Componentes](https://github.com/bruceneco/DS2/wiki/Pacotes-e-Componentes)
 - [Tema](#tema)
 - [Integrantes](#integrantes)
 
